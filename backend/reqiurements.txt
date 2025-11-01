@@ -1,0 +1,4 @@
+flask
+flask_pymongo
+flask-cors
+python-dotenv  # Good for managing the MONGO_URI environment variable
